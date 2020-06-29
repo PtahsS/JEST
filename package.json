@@ -14,5 +14,8 @@
     "testing"
   ],
   "author": "PtahS",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
 }
